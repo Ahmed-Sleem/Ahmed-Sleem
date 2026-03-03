@@ -6,8 +6,10 @@
 
 ###
 
-<p align="left">I have been coding mainly in C++ and Python. Prefer Pencils over Pens,<br>passionate about the design process, ranging from automations and cycles to graphics and UIs.</p>
-
+<p align="left">
+I primarily code in C++ and Python. prefer pencils over pens.<br>
+I’m passionate about creating things that think or at least trying to...
+</p>
 
 
 <h5 align="left">🔍 Find me on  :</h5>
