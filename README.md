@@ -8,7 +8,7 @@
 
 <p align="left">
 I speak whatever programming language the problem asks for. prefer pencils over pens.<br>
-I’m passionate about creating things that think—or at least trying to...
+I’m passionate about creating things that think or at least trying to...
 </p>
 
 
