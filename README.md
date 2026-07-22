@@ -7,8 +7,8 @@
 ###
 
 <p align="left">
-I primarily code in C++ and Python. prefer pencils over pens.<br>
-I’m passionate about creating things that think or at least trying to...
+I speak whatever programming language the problem asks for. prefer pencils over pens.<br>
+I’m passionate about creating things that think—or at least trying to...
 </p>
 
 
